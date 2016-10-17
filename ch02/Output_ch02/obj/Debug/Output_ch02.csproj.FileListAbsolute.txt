@@ -1,0 +1,5 @@
+C:\Users\517-11\Desktop\saori\c#\20161017\Output_ch02\bin\Debug\Output_ch02.exe.config
+C:\Users\517-11\Desktop\saori\c#\20161017\Output_ch02\bin\Debug\Output_ch02.exe
+C:\Users\517-11\Desktop\saori\c#\20161017\Output_ch02\bin\Debug\Output_ch02.pdb
+C:\Users\517-11\Desktop\saori\c#\20161017\Output_ch02\obj\Debug\Output_ch02.exe
+C:\Users\517-11\Desktop\saori\c#\20161017\Output_ch02\obj\Debug\Output_ch02.pdb

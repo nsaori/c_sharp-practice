@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\20161017\firsitProgram\bin\Debug\firsitProgram.exe.config
+C:\Users\517-11\Desktop\saori\c#\20161017\firsitProgram\bin\Debug\firsitProgram.exe
+C:\Users\517-11\Desktop\saori\c#\20161017\firsitProgram\bin\Debug\firsitProgram.pdb
+C:\Users\517-11\Desktop\saori\c#\20161017\firsitProgram\obj\Debug\firsitProgram.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\20161017\firsitProgram\obj\Debug\firsitProgram.exe
+C:\Users\517-11\Desktop\saori\c#\20161017\firsitProgram\obj\Debug\firsitProgram.pdb

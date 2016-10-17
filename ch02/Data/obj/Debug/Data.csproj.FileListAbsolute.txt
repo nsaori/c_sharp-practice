@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\20161017\ch02\Data\bin\Debug\Data.exe.config
+C:\Users\517-11\Desktop\saori\c#\20161017\ch02\Data\bin\Debug\Data.exe
+C:\Users\517-11\Desktop\saori\c#\20161017\ch02\Data\bin\Debug\Data.pdb
+C:\Users\517-11\Desktop\saori\c#\20161017\ch02\Data\obj\Debug\Data.exe
+C:\Users\517-11\Desktop\saori\c#\20161017\ch02\Data\obj\Debug\Data.pdb
+C:\Users\517-11\Desktop\saori\c#\20161017\ch02\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
