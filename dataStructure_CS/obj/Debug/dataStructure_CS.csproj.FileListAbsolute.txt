@@ -1,1 +1,2 @@
 C:\Users\517-11\Desktop\saori\c#\20161017\dataStructure_CS\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\517-11\Desktop\saori\c#\20161017\dataStructure_CS\obj\Debug\dataStructure_CS.csprojResolveAssemblyReference.cache
