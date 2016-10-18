@@ -1,0 +1,5 @@
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0405\bin\Debug\ch0405.exe.config
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0405\bin\Debug\ch0405.exe
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0405\bin\Debug\ch0405.pdb
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0405\obj\Debug\ch0405.exe
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0405\obj\Debug\ch0405.pdb
