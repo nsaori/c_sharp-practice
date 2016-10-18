@@ -17,7 +17,7 @@ namespace Data
             int number = int.Parse(input)+12 ;
             Console.WriteLine(number);
             */
-
+              
             Console.Write("name? ");
             string name = Console.ReadLine();
             Console.Write("age? ");

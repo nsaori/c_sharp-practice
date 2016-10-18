@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EC9D1E8D-22E1-4AE9-93FE-A892F3CE3D3E}</ProjectGuid>
+    <ProjectGuid>{7E3AA23B-01FC-4C25-BE84-44EDA3DD45DE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Data</RootNamespace>
-    <AssemblyName>Data</AssemblyName>
+    <RootNamespace>IF</RootNamespace>
+    <AssemblyName>IF</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IfSwitch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TosString.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

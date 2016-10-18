@@ -1,0 +1,4 @@
+﻿  circlerQueue.c
+c:\users\517-11\desktop\saori\c#\20161017\ch02\circlar_queue\circlerqueue.c(54): warning C4013: 'sacnf' undefined; assuming extern returning int
+circlerQueue.obj : error LNK2019: unresolved external symbol _sacnf referenced in function _enqueue
+C:\Users\517-11\Desktop\saori\c#\20161017\ch02\circlar_queue\Debug\circlar_queue.exe : fatal error LNK1120: 1 unresolved externals
