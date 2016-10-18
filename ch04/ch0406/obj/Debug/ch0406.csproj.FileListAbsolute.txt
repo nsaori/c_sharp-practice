@@ -3,3 +3,4 @@ C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0406\bin\Debug\ch0406.exe
 C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0406\bin\Debug\ch0406.pdb
 C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0406\obj\Debug\ch0406.exe
 C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0406\obj\Debug\ch0406.pdb
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\ch0406\obj\Debug\ch0406.csprojResolveAssemblyReference.cache

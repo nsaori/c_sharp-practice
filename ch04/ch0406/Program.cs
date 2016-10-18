@@ -11,13 +11,13 @@ namespace ch0406
         static void Main(string[] args)
         {
             int[] a = new int[5];
-            int max, min;
+            int max = int.MaxValue, min = int.MinValue;
 
             Console.Write("숫자를 입력해주세요: ");
             a[0] = int.Parse(Console.ReadLine());
             max = min = a[0];
 
-            for (int i = 1; i < a.Length; i++)  //input
+            for (int i = 0; i < a.Length; i++)  //input
             {
                 Console.Write("숫자를 입력해주세요: ");
                 a[i] = int.Parse(Console.ReadLine());
