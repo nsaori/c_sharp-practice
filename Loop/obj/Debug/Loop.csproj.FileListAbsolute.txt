@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\Loop\bin\Debug\Loop.exe.config
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\Loop\bin\Debug\Loop.exe
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\Loop\bin\Debug\Loop.pdb
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\Loop\obj\Debug\Loop.exe
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\Loop\obj\Debug\Loop.pdb
+C:\Users\517-11\Desktop\saori\c#\20161018\ch04\Loop\obj\Debug\Loop.csprojResolveAssemblyReference.cache

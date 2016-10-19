@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ch0504\bin\Debug\ch0504.exe.config
+C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ch0504\bin\Debug\ch0504.exe
+C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ch0504\bin\Debug\ch0504.pdb
+C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ch0504\obj\Debug\ch0504.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ch0504\obj\Debug\ch0504.exe
+C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ch0504\obj\Debug\ch0504.pdb

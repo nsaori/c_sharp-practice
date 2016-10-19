@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop.csproj", "{4F49CEB3-476C-4026-A5AE-8F210238CEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch05Class", "..\..\Myprictice\ch05Class\ch05Class.csproj", "{8C329971-BFAD-47E1-936E-32060358F53A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F49CEB3-476C-4026-A5AE-8F210238CEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F49CEB3-476C-4026-A5AE-8F210238CEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F49CEB3-476C-4026-A5AE-8F210238CEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F49CEB3-476C-4026-A5AE-8F210238CEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C329971-BFAD-47E1-936E-32060358F53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C329971-BFAD-47E1-936E-32060358F53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C329971-BFAD-47E1-936E-32060358F53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C329971-BFAD-47E1-936E-32060358F53A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
