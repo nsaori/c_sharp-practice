@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0604\bin\Debug\ch0604.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0604\obj\Debug\ch0604.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0604\bin\Debug\ch0604.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0604\bin\Debug\ch0604.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0604\obj\Debug\ch0604.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0604\obj\Debug\ch0604.pdb
