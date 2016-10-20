@@ -4,3 +4,9 @@ C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ClassUses\bin\Debug\ClassUses.pdb
 C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ClassUses\obj\Debug\ClassUses.csprojResolveAssemblyReference.cache
 C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ClassUses\obj\Debug\ClassUses.exe
 C:\Users\517-11\Desktop\saori\c#\20161019\ch05\ClassUses\obj\Debug\ClassUses.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ClassUses\bin\Debug\ClassUses.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ClassUses\obj\Debug\ClassUses.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ClassUses\obj\Debug\ClassUses.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ClassUses\bin\Debug\ClassUses.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ClassUses\bin\Debug\ClassUses.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ClassUses\obj\Debug\ClassUses.csprojResolveAssemblyReference.cache

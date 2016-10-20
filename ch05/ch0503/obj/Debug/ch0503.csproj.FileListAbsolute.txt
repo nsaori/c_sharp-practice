@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ch0503\bin\Debug\ch0503.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ch0503\bin\Debug\ch0503.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ch0503\bin\Debug\ch0503.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ch0503\obj\Debug\ch0503.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ch0503\obj\Debug\ch0503.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\ch0503\obj\Debug\ch0503.pdb
