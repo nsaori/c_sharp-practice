@@ -1,5 +1,5 @@
 ﻿//20161020 saori
-//ch06 p.270 Constructor (same name with Class, no returntype, always public)-instance변수 초기화 위해서 있다
+//ch06 p.270 Constructor (same name with Class, no returntype,)-instance변수 초기화 위해서 있다
 // instance(local)변수와 parameter는 이름을 같이 한다
 //constructor overloading
 
@@ -10,6 +10,11 @@
 
 //생성자 만들 때(overloading) 최소 3가지 overloading한다(parameter의 1.아무것도 없는 것(상속떔),2.inctance변수 다들어가는것, 3.필수항목)
 
+//생성자 -> private ; (멤버가 다 static일때, 팩토리 메서드 패턴에서 메서드로만 인스턴스를 생성하게 할 때, single...객체를 하나만 생성할 떄..?)
+//  ex;Math Class
+//  static 붙일 수도 있다
+
+// default 생성자는 하나도 생성자가 하나도 없을 떄만 자동 생성된다.
 
 using System;
 using System.Collections.Generic;
@@ -81,9 +86,10 @@ namespace Constructors
             p5.price = 2000;
             Console.WriteLine(p5.ToString());
 
-            Product p6 = new Product("고구마");
-            p6.price = 3000;
+            Product p6 = new Product("고구마,3000");
             Console.WriteLine(p6.ToString());
+
+            Console.WriteLine(Product.counter + "개 생성되었습니다.");
         }
     }
 }
