@@ -3,3 +3,4 @@ C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\Methods\bin\Debug\Methods
 C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\Methods\bin\Debug\Methods.pdb
 C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\Methods\obj\Debug\Methods.exe
 C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\Methods\obj\Debug\Methods.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
