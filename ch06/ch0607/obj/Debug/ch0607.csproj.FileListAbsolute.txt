@@ -1,0 +1,5 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0607\bin\Debug\ch0607.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0607\bin\Debug\ch0607.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0607\bin\Debug\ch0607.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0607\obj\Debug\ch0607.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\ch0607\obj\Debug\ch0607.pdb
