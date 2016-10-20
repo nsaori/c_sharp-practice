@@ -1,0 +1,33 @@
+
+C:\csharp
+  +cd
+
+   https://www.visualstudio.com/ko/downloads/ 
+   Visual Studio 2015
+   Community 2015 -> 한국어 -> ISO ->
+   vs2015.3.com_kor.iso 다운
+
+   vs2015.3.com_kor에 압축풀기
+
+   vs2015.3.com_kor폴더에 vs_community.exe 실행
+
+   설치유형: 기본값 -> 설치
+
+   시작 -> 나중에 로그인 
+        -> 개발 설정: Visual C#
+        -> 색 테마: 파랑(기본값)
+        -> Visual Studio 시작
+
+   파일 -> 새로만들기 -> 프로젝트
+        -> Visual C# -> 콘솔 응용 프로그램
+        -> 이름: FirstProgram
+           위치: c:\csharp\ch01
+           솔루션 이름: FirstProgram
+        -> 솔루션용 디렉토리 만들기 체크 해제
+        -> 확인
+
+   보기 -> 오류 목록
+
+   디버그 -> 디버그 하지 않고 시작 or Ctrl+F5
+
+
