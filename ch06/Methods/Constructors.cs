@@ -51,7 +51,10 @@ namespace Constructors
             this.name = name;
             this.price = 0;
         }
-
+        ~Product()
+        {
+            Console.WriteLine(name + "  ~Product() 소멸자가 호출이 되었습니다.");
+        }
         public string ToString() {
             return id + "\t" + name + "\t" + price;
         }
@@ -86,10 +89,11 @@ namespace Constructors
             p5.price = 2000;
             Console.WriteLine(p5.ToString());
 
-            Product p6 = new Product("고구마,3000");
+            Product p6 = new Product("고구마",3000);
             Console.WriteLine(p6.ToString());
 
             Console.WriteLine(Product.counter + "개 생성되었습니다.");
+            Console.WriteLine();
         }
     }
 }
