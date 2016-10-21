@@ -32,7 +32,7 @@ namespace School
         public Employee(){
             Name = "???";
             Age = 100;
-            Dept = 'a';
+            Dept = '_';
         }
         public Employee(string name, int age, char dept) {
             Name = name;
@@ -47,7 +47,7 @@ namespace School
         public Employee(string name) {
             Name = name;
             Age = 100;
-            Dept = 'a';
+            Dept = '_';
         }
 
         public void printAll()  //이름,나이,부서 출력
