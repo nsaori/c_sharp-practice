@@ -11,9 +11,9 @@ namespace School
     {
         static void Main(string[] args) {
             //Student객체 4개 생성하고 값출력
-            Student s1 = new Student("키시", 27, 2012);
-            Student s2 = new Student("김", 2010);
-            Student s3 = new Student("신");
+            Student s1 = new Student("홍길동", 27, 2012);
+            Student s2 = new Student("홍길순", 2010);
+            Student s3 = new Student("혼길태");
             Student s4 = new Student();
             s1.printAll();
             s2.printAll();
@@ -21,7 +21,7 @@ namespace School
             s4.printAll();
             Console.WriteLine();
             //Teacher객체 4개 생성하고 값출력
-            Teacher t1 = new Teacher("교수", 100, "컴퓨터공학과");
+            Teacher t1 = new Teacher("교수", 50, "컴퓨터공학과");
             Teacher t2 = new Teacher("강사님", "정보통신학과");
             Teacher t3 = new Teacher("선생님");
             Teacher t4 = new Teacher();

@@ -9,32 +9,53 @@ namespace School
 {
     class Teacher
     {
-        string name;
+        public string Name { get; set; }
         int age;
-        string stuj;
+        public int Age
+        {
+            get { return age; }
+            set { CheackAge(value); }
+        }
+        private void CheackAge(int age)
+        {
+            if (age > 0)
+            {
+                this.age = age;
+            }
+            else
+            {
+                Console.WriteLine("정확한 나이를 입력하주새요.");
+            }
+        }
+        public string Stuj { get; set; }
 
         public Teacher() {
-
+            Name = "누구시죠";
+            Age = 100;
+            Stuj = "뭘까";
         }
         public Teacher(string name, int age, string stuj)
         {
-            this.name = name;
-            this.age = age;
-            this.stuj = stuj;
+            Name = name;
+            Age = age;
+            Stuj = stuj;
         }
         public Teacher(string name, string stuj)
         {
-            this.name = name;
-            this.stuj = stuj;
+            Name = name;
+            Age = 100;
+            Stuj = stuj;
         }
         public Teacher(string name)
         {
-            this.name = name;
+            Name = name;
+            Age = 100;
+            Stuj = "뭘까";
         }
 
         public void printAll()  //이름,나이,전공 출력
         {
-            Console.WriteLine("이름:{0}\t나이:{1}\t전공:{2}", name, age, stuj);
+            Console.WriteLine("이름:{0}\t나이:{1}\t전공:{2}", Name, Age, Stuj);
         }
     }
 }
