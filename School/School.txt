@@ -1,0 +1,58 @@
+프로젝트 
+이름: School
+위치: 관계없음
+
+클래스
+Sudent.cs 학생
+  이름(name:string)
+  나이(age:int)
+  학번(stuid:int)
+
+  캡슐화적용
+    속성(property)로 작성
+  생성자 오버로딩
+    Student(string name,int age,int stuid)
+    Student(string name,int stuid)
+    Student(string name)
+    Student()
+  메서드
+    printAll()-이름,나이,학번 출력
+
+Teacher.cs 강사
+  이름(name:string)
+  나이(age:int)
+  전공(stuj:string)
+
+  캡슐화적용
+    속성(property)로 작성
+  생성자 오버로딩
+    Teacher(string name,int age,string stuj)
+    Teacher(string name,string stuj)
+    Teacher(string name)
+    Teacher()
+  메서드
+    printAll()-이름,나이,전공 출력
+
+Employee.cs 직원
+  이름(name:string)
+  나이(age:int)
+  부서(dept:char)
+
+  캡슐화적용
+    속성(property)로 작성
+  생성자 오버로딩
+    Employee(string name,int age,char dept)
+    Employee(string name,char dept)
+    Employee(string name)
+    Employee()
+  메서드
+    printAll()-이름,나이,부서 출력
+
+Program.cs
+  Main에서
+    Student객체 4개 생성하고 값출력
+    Console.WriteLine();
+    Teacher객체 4개 생성하고 값출력
+    Console.WriteLine();
+    Employee객체 4개 생성하고 값출력
+

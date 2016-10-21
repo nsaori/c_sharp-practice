@@ -1,0 +1,9 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ConsoleApplication1\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\School\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\School\obj\Debug\ConsoleApplication1.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\School\obj\Debug\ConsoleApplication1.pdb
