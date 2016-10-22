@@ -1,0 +1,9 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\FirstForm\bin\Debug\FirstForm.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\FirstForm\bin\Debug\FirstForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\FirstForm\bin\Debug\FirstForm.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\FirstForm\obj\Debug\FirstForm.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\FirstForm\obj\Debug\FirstForm.Properties.Resources.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\FirstForm\obj\Debug\FirstForm.csproj.GenerateResource.Cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\FirstForm\obj\Debug\FirstForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\FirstForm\obj\Debug\FirstForm.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch05\FirstForm\obj\Debug\FirstForm.Form1.resources
