@@ -1,0 +1,9 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\EventForms\bin\Debug\EventForms.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\EventForms\bin\Debug\EventForms.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\EventForms\bin\Debug\EventForms.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\EventForms\obj\Debug\EventForms.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\EventForms\obj\Debug\EventForms.Form1.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\EventForms\obj\Debug\EventForms.Properties.Resources.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\EventForms\obj\Debug\EventForms.csproj.GenerateResource.Cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\EventForms\obj\Debug\EventForms.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch06\EventForms\obj\Debug\EventForms.pdb
