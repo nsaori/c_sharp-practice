@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Gugu\bin\Debug\Gugu.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Gugu\bin\Debug\Gugu.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Gugu\bin\Debug\Gugu.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Gugu\obj\Debug\Gugu.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Gugu\obj\Debug\Gugu.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Gugu\obj\Debug\Gugu.pdb
