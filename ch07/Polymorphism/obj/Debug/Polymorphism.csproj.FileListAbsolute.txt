@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Polymorphism\obj\Debug\Polymorphism.pdb
