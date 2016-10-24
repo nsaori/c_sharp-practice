@@ -10,13 +10,7 @@ namespace School
     class Student : Person
     {
         public int Stuid { get; set; }
-
-        public Student() //: base()
-        {
-            //Name = "아무게";
-            //Age = 100;
-            Stuid = 10001;
-        }
+        
         public Student(string name, int age, int stuid) : base(name,age)
         {
             Stuid = stuid;
@@ -29,10 +23,17 @@ namespace School
         {
             Stuid = 10001;
         }
-
-        public void printAll()  //이름,나이,학번 출력
+        public Student() //: base()  //default는 무관
         {
-            Console.WriteLine("이름:{0}\t나이:{1}\t학번:{2}", Name, Age, Stuid);
+            //Name = "아무게";
+            //Age = 100;
+            Stuid = 10001;
+        }
+        public void PrintAll()  //이름,나이,학번 출력
+        {
+            base.PrintAll();
+            Console.WriteLine("학번: " + Stuid);
+
         }
     }
 }

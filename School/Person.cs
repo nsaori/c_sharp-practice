@@ -45,9 +45,9 @@ namespace School
             Age = 100;
         }
 
-        public void printAll()  //이름,나이,학번 출력
+        public void PrintAll()  //이름,나이,학번 출력
         {
-            Console.WriteLine("이름:{0}\t나이:{1}", Name, age);
+            Console.Write("이름:{0}\t나이:{1}\t", Name, age);
         }
     }
 }
