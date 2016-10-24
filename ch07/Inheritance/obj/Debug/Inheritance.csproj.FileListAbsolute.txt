@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Inheritance\obj\Debug\Inheritance.pdb
