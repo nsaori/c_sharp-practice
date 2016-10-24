@@ -22,7 +22,7 @@ namespace School
             Console.WriteLine();
             //Teacher객체 4개 생성하고 값출력
             Teacher t1 = new Teacher("교수", 50, "컴퓨터공학과");
-            Teacher t2 = new Teacher("강사님", "정보통신학과");
+            Teacher t2 = new Teacher("강사님","정보통신학과");
             Teacher t3 = new Teacher("선생님");
             Teacher t4 = new Teacher();
             t1.printAll();

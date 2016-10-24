@@ -7,28 +7,8 @@ using System.Threading.Tasks;
 
 namespace School
 {
-    class Student
+    class Student : Person
     {
-        public string Name { get; set; }
-        //private string name;
-        int age;
-        //int stuid;
-        public int Age
-        {
-            get { return age; }
-            set { CheackAge(value); }
-        }
-        private void CheackAge(int age)
-        {
-            if (age > 0)
-            {
-                this.age = age;
-            }
-            else
-            {
-                Console.WriteLine("정확한 나이를 입력하주새요.");
-            }
-        }
         public int Stuid { get; set; }
 
         public Student() {
@@ -56,7 +36,7 @@ namespace School
 
         public void printAll()  //이름,나이,학번 출력
         {
-            Console.WriteLine("이름:{0}\t나이:{1}\t학번:{2}", Name, age, Stuid);
+            Console.WriteLine("이름:{0}\t나이:{1}\t학번:{2}", Name, Age, Stuid);
         }
     }
 }
