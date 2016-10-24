@@ -28,7 +28,7 @@ namespace School
             Subj = "뭘까";
         }
 
-        public void PrintAll()  //이름,나이,전공 출력
+        public override void PrintAll()  //이름,나이,전공 출력
         {
             base.PrintAll();
             Console.WriteLine("전공:{0}",Subj);

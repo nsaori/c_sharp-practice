@@ -29,7 +29,7 @@ namespace School
             //Age = 100;
             Stuid = 10001;
         }
-        public void PrintAll()  //이름,나이,학번 출력
+        public override void PrintAll()  //이름,나이,학번 출력
         {
             base.PrintAll();
             Console.WriteLine("학번: " + Stuid);

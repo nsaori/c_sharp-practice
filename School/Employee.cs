@@ -27,7 +27,7 @@ namespace School
         {
             Dept = '_';
         }
-        public void PrintAll()  //이름,나이,부서 출력
+        public override void PrintAll()  //이름,나이,부서 출력
         {
             base.PrintAll();
             Console.WriteLine("부서:{0}", Dept);
