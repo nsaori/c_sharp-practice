@@ -11,26 +11,22 @@ namespace School
     {
         public int Stuid { get; set; }
 
-        public Student() {
-            Name = "아무게";
-            Age = 100;
+        public Student() //: base()
+        {
+            //Name = "아무게";
+            //Age = 100;
             Stuid = 10001;
         }
-        public Student(string name, int age, int stuid) {
-            Name = name;
-            Age = age;
+        public Student(string name, int age, int stuid) : base(name,age)
+        {
             Stuid = stuid;
         }
-        public Student(string name, int stuid)
+        public Student(string name, int stuid) : base(name)
         {
-            Name = name;
-            Age = 100;
             Stuid = stuid;
         }
-        public Student(string name)   //필수항
+        public Student(string name) : base(name)  //필수항
         {
-            Name = name;
-            Age = 100;
             Stuid = 10001;
         }
 
