@@ -2,6 +2,7 @@
 // Shadow(상속관계아님;이전)/ Hide (상속관계임;객체지향이후) p.341
 //함수,함수집합: (객체지향 이전)function,library   / (객체지향 이후)method,api
 //static, local변수
+//부모;보통 protected 로
 
 using System;
 using System.Collections.Generic;
