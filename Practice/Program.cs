@@ -21,8 +21,8 @@ namespace Practice
     {
         public static int CountChild() {return ++count; }
 
-        protected string val = "hiding";
-        public void Method() { Console.WriteLine("자식 method"); }
+        protected new string val = "hiding";        //new keyword
+        public new void Method() { Console.WriteLine("자식 method"); }
     }
 
     class Program
