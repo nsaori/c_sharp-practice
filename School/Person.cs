@@ -1,4 +1,5 @@
 ﻿//20161024 inheritance상속 추가
+//상속할 떈 private 아니라 protected~~
 
 using System;
 using System.Collections.Generic;
