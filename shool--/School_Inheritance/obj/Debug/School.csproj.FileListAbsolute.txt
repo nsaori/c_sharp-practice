@@ -1,0 +1,6 @@
+\\517-40-pc\10기 공유폴더\C#share\wk\School_Inheritance\bin\Debug\School.exe.config
+\\517-40-pc\10기 공유폴더\C#share\wk\School_Inheritance\bin\Debug\School.exe
+\\517-40-pc\10기 공유폴더\C#share\wk\School_Inheritance\bin\Debug\School.pdb
+\\517-40-pc\10기 공유폴더\C#share\wk\School_Inheritance\obj\Debug\School.csprojResolveAssemblyReference.cache
+\\517-40-pc\10기 공유폴더\C#share\wk\School_Inheritance\obj\Debug\School.exe
+\\517-40-pc\10기 공유폴더\C#share\wk\School_Inheritance\obj\Debug\School.pdb

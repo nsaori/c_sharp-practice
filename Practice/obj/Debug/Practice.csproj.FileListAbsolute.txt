@@ -1,1 +1,6 @@
 C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Practice\bin\Debug\Practice.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Practice\bin\Debug\Practice.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Practice\obj\Debug\Practice.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Practice\obj\Debug\Practice.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache

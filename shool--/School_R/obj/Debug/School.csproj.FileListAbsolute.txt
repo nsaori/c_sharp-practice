@@ -1,0 +1,12 @@
+C:\Users\517-13\Desktop\C#\School\bin\Debug\School.exe.config
+C:\Users\517-13\Desktop\C#\School\bin\Debug\School.exe
+C:\Users\517-13\Desktop\C#\School\bin\Debug\School.pdb
+C:\Users\517-13\Desktop\C#\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\517-13\Desktop\C#\School\obj\Debug\School.exe
+C:\Users\517-13\Desktop\C#\School\obj\Debug\School.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\shool--\School_R\bin\Debug\School.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\shool--\School_R\obj\Debug\School.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\shool--\School_R\obj\Debug\School.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\shool--\School_R\bin\Debug\School.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\shool--\School_R\bin\Debug\School.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\shool--\School_R\obj\Debug\School.csprojResolveAssemblyReference.cache

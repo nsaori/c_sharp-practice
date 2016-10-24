@@ -64,7 +64,8 @@ namespace School
 
             //5.overwriting
             Person p = new Student("홍길동", 20, 2001601);
-            p.PrintAll();
+            p.PrintAll();  //new 홍길동  20
+                           //override 홍길동 20 2001601  -> 자식 class method 호출된다
 
             /*
             Person p = new Person();
