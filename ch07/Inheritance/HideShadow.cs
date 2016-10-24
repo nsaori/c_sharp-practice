@@ -37,13 +37,13 @@ namespace Inheritance
         {
             //local 변수
             int number = 20;
-            Console.WriteLine(number);  //20  
-            Console.WriteLine(ShadowHide.number);   //10 showing(상속관계아님)
+            Console.WriteLine(number);  //20  showing(상속관계아님)
+            Console.WriteLine(ShadowHide.number);   //10 showing 전꺼 
             Console.WriteLine();
 
             Child c = new Child();
             Console.WriteLine(c.variable);//홍길동 //273은 안 나온다; 부모variable hide됬다.(상속관계임)
-            Console.WriteLine(((Parent)c).variable);
+            Console.WriteLine(((Parent)c).variable);  //hiding전
             //Parent p = (Parent)c;
             //Console.WriteLine(p.variable);
             Console.WriteLine();
@@ -53,3 +53,6 @@ namespace Inheritance
         }
     }
 }
+
+
+//개발자는 service기업이다. 고객이 원하면 해줘야 된다 > 안된다는 안된다~~
