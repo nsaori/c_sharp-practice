@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace School
 {
-    class Person
+    class Person//: Object  최상의 클래스~~ 굳히 코딩안한다~~
     {
         public string Name { get; set; }
         int age;
@@ -30,17 +30,17 @@ namespace School
             }
         }
 
-        public Person(string name, int age)     //all
+        public Person(string name, int age) //:base()     //all
         {
             Name = name;
             Age = age;
         }
-        public Person(string name)   //필수항
+        public Person(string name) //:base()  //필수항
         {
             Name = name;
             Age = 100;
         }
-        public Person()  //default
+        public Person() //:base() //default
         {
             Name = "아무게";
             Age = 100;

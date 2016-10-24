@@ -1,4 +1,5 @@
 ﻿//20161021 saori
+//생성자constructor ;초기화하기 위한 거! for init
 using System;
 using System.Collections.Generic;
 using System.Linq;
