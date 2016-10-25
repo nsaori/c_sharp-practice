@@ -53,7 +53,7 @@
             this.label1.Font = new System.Drawing.Font("Gulim", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.label1.Location = new System.Drawing.Point(12, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(345, 57);
+            this.label1.Size = new System.Drawing.Size(317, 57);
             this.label1.TabIndex = 0;
             this.label1.Text = "0.0";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -222,7 +222,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(381, 460);
+            this.ClientSize = new System.Drawing.Size(363, 361);
             this.Controls.Add(this.bAdd);
             this.Controls.Add(this.bSub);
             this.Controls.Add(this.bEqu);
