@@ -6,6 +6,10 @@
 //absstract class는 abstract method가 있든없든 무관
 //abstract method가 있는 class는 absstract class이어야 된다.
 
+//abstract method -> overriding ! 
+
+//parent객체생성해야 될 경우는 virtual a{};
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
