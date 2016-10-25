@@ -1,0 +1,12 @@
+C:\Users\517-10\Desktop\c program\Generics\bin\Debug\Generics.exe.config
+C:\Users\517-10\Desktop\c program\Generics\bin\Debug\Generics.exe
+C:\Users\517-10\Desktop\c program\Generics\bin\Debug\Generics.pdb
+C:\Users\517-10\Desktop\c program\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\517-10\Desktop\c program\Generics\obj\Debug\Generics.exe
+C:\Users\517-10\Desktop\c program\Generics\obj\Debug\Generics.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch08\Generics_r\bin\Debug\Generics.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch08\Generics_r\obj\Debug\Generics.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch08\Generics_r\obj\Debug\Generics.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch08\Generics_r\bin\Debug\Generics.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch08\Generics_r\bin\Debug\Generics.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch08\Generics_r\obj\Debug\Generics.csprojResolveAssemblyReference.cache

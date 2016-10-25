@@ -1,0 +1,8 @@
+C:\csharp\ch07\Calc\bin\Debug\Calc.exe.config
+C:\csharp\ch07\Calc\bin\Debug\Calc.exe
+C:\csharp\ch07\Calc\bin\Debug\Calc.pdb
+C:\csharp\ch07\Calc\obj\Debug\Calc.FormCalc.resources
+C:\csharp\ch07\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\csharp\ch07\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\csharp\ch07\Calc\obj\Debug\Calc.exe
+C:\csharp\ch07\Calc\obj\Debug\Calc.pdb
