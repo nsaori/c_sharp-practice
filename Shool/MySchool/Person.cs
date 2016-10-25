@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace School
 {
-    class Person//: Object  최상의 클래스~~ 굳히 코딩안한다~~
+    abstract class Person//: Object  최상의 클래스~~ 굳히 코딩안한다~~
     {
         public string Name { get; set; }
         int age;
