@@ -37,6 +37,12 @@ namespace Practice
     {
         static void Main(string[] args)
         {
+            Parent pc = new Child();
+            pc.Method();
+            pc.Method1();
+            if (pc is Child) { ((Parent)pc).Method(); }   //pc as Parent
+            Console.WriteLine();
+
             Child child = new Child();
             Parent parent = new Parent();
             child.Method();             //자식 method
