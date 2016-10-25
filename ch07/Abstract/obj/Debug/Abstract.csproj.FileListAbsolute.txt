@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Abstract\bin\Debug\Abstract.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Abstract\bin\Debug\Abstract.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Abstract\obj\Debug\Abstract.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\Abstract\obj\Debug\Abstract.pdb

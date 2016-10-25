@@ -27,7 +27,7 @@ namespace Practice
      class Child : Parent
     {
         public static int CountChild() {return ++count; }
-
+        
         protected new string val = "hiding";        //new keyword ; hide할 것을 분명하게--
         public new void Method() { Console.WriteLine("자식 method"); }
         public override void Method1() { Console.WriteLine("자식 method1"); }     //overriding
