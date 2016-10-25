@@ -17,7 +17,7 @@ namespace School
     class Program
     {
         static void Main(string[] args)
-        {
+        {  
             //1.Definiton
             /*
             Person p = new Student("홍길동", 20, 2001601);

@@ -1,0 +1,9 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\MessageBox\bin\Debug\MessageBox.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\MessageBox\bin\Debug\MessageBox.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\MessageBox\bin\Debug\MessageBox.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\MessageBox\obj\Debug\MessageBox.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\MessageBox\obj\Debug\MessageBox.Form1.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.Cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\MessageBox\obj\Debug\MessageBox.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch07\MessageBox\obj\Debug\MessageBox.pdb
