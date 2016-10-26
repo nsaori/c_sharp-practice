@@ -6,9 +6,10 @@
 //->3차원 배열은 쓰지않는다. (아리고리즘을 풀 땐 사용할 수도 있다)
 
 //polymorphism -다형성
-//definition(갹체 생성) 2.arry, list-> polymorphism로 만든다 3.4.5.
+//1.definition(갹체 생성) 2.arry, list-> polymorphism로 만든다 3.4.5.
+//3.polymorphic parameter 4.return 5.overriding
 
-//polymorphic parameter
+
 
 using System;
 using System.Collections.Generic;
@@ -22,6 +23,8 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
+
+            //1.definition
             Object o = 123;
             Object o1 = new Dog();
 
@@ -34,7 +37,9 @@ namespace Polymorphism
 
             Console.WriteLine();
 
+            //2.array
             Object[] oa = new Object[2];  //모든게 들어간다
+            //3.parameter
             List<Object> olist = new List<object>();    //모든게 들어간다
 
             Console.WriteLine();
@@ -48,6 +53,7 @@ namespace Polymorphism
             {
                 aa[i].Eat();
                 aa[i].Sleep();
+               
             }
 
             Console.WriteLine();
@@ -58,7 +64,17 @@ namespace Polymorphism
             {
                 item.Eat();
                 item.Sleep();
+                if (item is Cat) { ((Cat)item).Meow(); }   //(item is Cat) ->true/false
+                if (item is Dog) { (item as Dog).Bark(); }  //(item as Dog) -> object/null
             }
+            //4.return
+
+
+            //5.overriding
+            Animal d = new Dog();
+            d.Eat();
+            d = new Cat();
+            d.Eat();
         }
     }
 }

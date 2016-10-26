@@ -4,7 +4,7 @@
 //-> reference? data?
 
 //class ; copy by reference
-//structure ; copy by data
+//structure ; copy by data  //옛날에 class 이전에 사용했던 것/ 안되는것도 많다.
 
 using System;
 using System.Collections.Generic;
@@ -34,7 +34,7 @@ namespace Generics
     struct PointStruct {
         public int x;
         public int y;
-        public string testA;
+        public string testA;     
         public string testB; // = "초기값";  //안된다.
 
 
@@ -46,12 +46,12 @@ namespace Generics
         }
         
     }
-    class StructBasic { 
+    class StructCopy { 
 
         static void Main(string[] args)
         {
             PointClass pcA = new PointClass(10,20);  //copy by reference
-            PointClass pcB = pcA;
+            PointClass pcB = pcA;           // = pointer
             pcB.x = 100;
             pcB.y = 200;
             Console.WriteLine("pcA: "+pcA.x +"," + pcA.y);
@@ -65,6 +65,9 @@ namespace Generics
             Console.WriteLine("psA: " + psA.x + "," + psA.y);
             Console.WriteLine("psB: " + psB.x + "," + psB.y);
             Console.WriteLine();
+
+            //pcA = psA; //type 안 맞아요~~
+            //psB = pcB;
         }
     }
 }
