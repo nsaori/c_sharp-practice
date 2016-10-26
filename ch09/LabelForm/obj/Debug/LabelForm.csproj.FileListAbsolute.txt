@@ -1,0 +1,18 @@
+C:\Users\517-10\Desktop\c program\LabelForm\bin\Debug\LabelForm.exe.config
+C:\Users\517-10\Desktop\c program\LabelForm\bin\Debug\LabelForm.exe
+C:\Users\517-10\Desktop\c program\LabelForm\bin\Debug\LabelForm.pdb
+C:\Users\517-10\Desktop\c program\LabelForm\obj\Debug\LabelForm.csprojResolveAssemblyReference.cache
+C:\Users\517-10\Desktop\c program\LabelForm\obj\Debug\LabelForm.Form1.resources
+C:\Users\517-10\Desktop\c program\LabelForm\obj\Debug\LabelForm.Properties.Resources.resources
+C:\Users\517-10\Desktop\c program\LabelForm\obj\Debug\LabelForm.csproj.GenerateResource.Cache
+C:\Users\517-10\Desktop\c program\LabelForm\obj\Debug\LabelForm.exe
+C:\Users\517-10\Desktop\c program\LabelForm\obj\Debug\LabelForm.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\LabelForm\bin\Debug\LabelForm.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\LabelForm\obj\Debug\LabelForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\LabelForm\obj\Debug\LabelForm.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\LabelForm\bin\Debug\LabelForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\LabelForm\bin\Debug\LabelForm.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\LabelForm\obj\Debug\LabelForm.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\LabelForm\obj\Debug\LabelForm.Form1.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\LabelForm\obj\Debug\LabelForm.Properties.Resources.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\LabelForm\obj\Debug\LabelForm.csproj.GenerateResource.Cache

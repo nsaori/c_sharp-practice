@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\FIleProcess\bin\Debug\FIleProcess.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\FIleProcess\bin\Debug\FIleProcess.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\FIleProcess\bin\Debug\FIleProcess.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\FIleProcess\obj\Debug\FIleProcess.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\FIleProcess\obj\Debug\FIleProcess.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\FIleProcess\obj\Debug\FIleProcess.pdb
