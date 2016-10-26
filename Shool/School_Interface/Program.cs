@@ -1,12 +1,4 @@
-﻿
-//management = CRUP(creat, remove,updata,print)
-//c- >빨리하는것
-//객체지향 -> 유지보수성(변경할떈 최소항만,딱 하나만!)
-//Gi로 할 떈 버턴으로 만들면 된다.
-
-//exception> ...     > incapshration
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,11 +17,11 @@ namespace School
             m.PrintAll();
             Console.WriteLine();
 
-            Person p = m.Search("일직원");
+            Person p = m.Search("일강사");
             if(p!=null) p.PrintAll();
             Console.WriteLine();
 
-            Person s = new Student("일강사",22,201401);
+            Person s = new Student("일강사", 22, 201401);
             m.Update(s);
             m.PrintAll();
             Console.WriteLine();
@@ -43,6 +35,7 @@ namespace School
             {
                 Console.WriteLine(item);
             }
+
 
             //1.Definition
             /*
@@ -129,6 +122,3 @@ namespace School
         }
     }
 }
-
-
-

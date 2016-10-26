@@ -1,5 +1,4 @@
-﻿//interface 상속받은 것
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +9,7 @@ namespace School
     class ManagementList : IManagement
     {
         private List<Person> list;
-        
+
         public ManagementList(int size)
         {
             list = new List<Person>(size);
@@ -36,18 +35,18 @@ namespace School
         {
             foreach (var item in list) Console.WriteLine(item);
         }
-        //-----------------------------------//CRUP -Creat,remove,updata,print
+        //-----------------------------------//
         public void Remove(string name)
         {
             Person p = Search(name);
-            if (p != null) list.Remove(p);
-            //throw new NotImplementedException();
+            if(p!=null) list.Remove(p);
         }
-        public void Update(Person p)  //주소갑을 가라끼운다.
+        public void Update(Person p)
         {
             Person old = Search(p.Name);
-            if (old != null) {
-                int index = list.IndexOf(old);      //replace,updata는 이렇게 한다---
+            if (old != null)
+            {
+                int index = list.IndexOf(old);
                 list.RemoveAt(index);
                 list.Insert(index, p);
             }

@@ -1,8 +1,4 @@
-﻿//~interafce~
-//api,speck
-//빈 껕떼기
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
