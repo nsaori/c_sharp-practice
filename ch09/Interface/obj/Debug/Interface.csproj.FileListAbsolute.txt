@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\Interface\bin\Debug\Interface.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\Interface\bin\Debug\Interface.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\Interface\bin\Debug\Interface.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\Interface\obj\Debug\Interface.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch09\Interface\obj\Debug\Interface.pdb
