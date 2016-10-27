@@ -1,0 +1,9 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\DataBindForm\bin\Debug\DataBindForm.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\DataBindForm\bin\Debug\DataBindForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\DataBindForm\bin\Debug\DataBindForm.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\DataBindForm\obj\Debug\DataBindForm.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\DataBindForm\obj\Debug\DataBindForm.Form1.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\DataBindForm\obj\Debug\DataBindForm.Properties.Resources.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\DataBindForm\obj\Debug\DataBindForm.csproj.GenerateResource.Cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\DataBindForm\obj\Debug\DataBindForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\DataBindForm\obj\Debug\DataBindForm.pdb
