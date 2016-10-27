@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Shool\School\bin\Debug\School.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Shool\School\bin\Debug\School.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Shool\School\bin\Debug\School.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Shool\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Shool\School\obj\Debug\School.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Shool\School\obj\Debug\School.pdb

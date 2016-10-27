@@ -50,35 +50,15 @@ namespace School
         //-----------------------------------//
         public void Remove(string name)
         {
-            for (int i = 0; i < index; i++)
-            {
-                if(name.Equals(pa[i].Name))
-                {
-                    Array.Copy(pa, i + 1, pa, i, index - 1 - i);
-                    pa[--index] = null;
-                    break;
-                }
-            }
+            throw new NotImplementedException();
         }
         public void Update(Person p)
         {
-            for (int i = 0; i < index; i++)
-            {
-                if (p.Name.Equals(pa[i].Name))
-                {
-                    pa[i] = p;
-                    break;
-                }
-            }
+            throw new NotImplementedException();
         }
         public List<Person> ToList()
         {
-            List<Person> temp = new List<Person>();
-            for (int i = 0; i < index; i++)
-            {
-                temp.Add(pa[i]);
-            }
-            return temp;
+            throw new NotImplementedException();
         }
     }
 }

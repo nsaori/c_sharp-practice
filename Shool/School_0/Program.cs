@@ -1,4 +1,10 @@
-﻿//예위처리할 떈 각각할 것
+﻿
+//management = CRUD(creat, replace,updata,delete)
+//c- >빨리하는것
+//객체지향 -> 유지보수성(변경할떈 최소항만,딱 하나만!)
+//Gi로 할 떈 버턴으로 만들면 된다.
+
+//exception> ...     > incapshration
 
 using System;
 using System.Collections.Generic;
@@ -13,86 +19,23 @@ namespace School
         static void Main(string[] args)
         {
             IManagement m = new ManagementList();
-
-            try
-            {
-                m.Add(new Student("홍길동", 20, 201601));
-            }
-            catch (InvailedAgeException e)
-            {
-                Console.WriteLine("나이예외"+ e.Message);
-            }
-            catch (DuplicationException e)
-            {
-                Console.WriteLine("중복예외" + e.Message);
-            }
-            
-            try
-            {
-                m.Add(new Teacher("일강사", 30, "C#"));
-            }
-            catch (InvailedAgeException e)
-            {
-                Console.WriteLine("나이예외" + e.Message);
-            }
-            catch (DuplicationException e)
-            {
-                Console.WriteLine("중복예외" + e.Message);
-            }
-
-            try
-            {
-                m.Add(new Employee("일직원", 25, 'A'));
-            }
-            catch (InvailedAgeException e)
-            {
-                Console.WriteLine("나이예외" + e.Message);
-            }
-            catch (DuplicationException e)
-            {
-                Console.WriteLine("중복예외" + e.Message);
-            }
-
-
+            m.Add( new Student("홍길동", 20, 201601) );
+            m.Add( new Teacher("일강사", 30, "C#") );
+            m.Add( new Employee("일직원", 25, 'A') );
             m.PrintAll();
             Console.WriteLine();
 
-            try
-            {
-                Person p = m.Search("일강사");
-                /* if(p!=null)*/ p.PrintAll();  //이제 정상 값 / notfoundException가 넘어온다
-            }
-            catch (NotFindException e)
-            {
-                Console.WriteLine("이름예외" + e.Message);
-            }
+            Person p = m.Search("일직원");
+            if(p!=null) p.PrintAll();
             Console.WriteLine();
 
-            try
-            {
-                Person s = new Student("일강사", 20, 201401);
-                m.Update(s);
-                m.PrintAll();
-            }
-            catch (InvailedAgeException e)
-            {
-                Console.WriteLine("나이예외" + e.Message);
-            }
-            catch (NotFindException e)
-            {
-                Console.WriteLine("수정예외" + e.Message);
-            }
+            Person s = new Student("일강사",22,201401);
+            m.Update(s);
+            m.PrintAll();
             Console.WriteLine();
 
-            try
-            {
-                m.Remove("일강사");
-                m.PrintAll();
-            }
-            catch (NotFindException e)
-            {
-                Console.WriteLine("삭제예외" + e.Message);
-            }
+            m.Remove("일강사");
+            m.PrintAll();
             Console.WriteLine();
 
             List<Person> data = m.ToList();
@@ -100,7 +43,6 @@ namespace School
             {
                 Console.WriteLine(item);
             }
-
 
             //1.Definition
             /*
@@ -187,3 +129,6 @@ namespace School
         }
     }
 }
+
+
+

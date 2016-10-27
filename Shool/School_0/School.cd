@@ -44,36 +44,15 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="School.ManagementList">
-    <Position X="2.25" Y="3" Width="1.5" />
+    <Position X="2.5" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAYAAgAAAAAAAAAABAAABAAAAAAAAAAAAAgAAAAgAAA=</HashCode>
       <FileName>ManagementList.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
-  </Class>
-  <Class Name="School.DuplicationException">
-    <Position X="10.75" Y="3.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>DuplicationException.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="School.NotFindException">
-    <Position X="10.75" Y="0.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>NotFoundException.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="School.InvailedAgeException">
-    <Position X="10.75" Y="2.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>InvailedAgeException.cs</FileName>
-    </TypeIdentifier>
+    <Lollipop Position="0.148" />
   </Class>
   <Interface Name="School.IManagement">
-    <Position X="1.25" Y="0.5" Width="1.5" />
+    <Position X="1.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAYAAAAAAAAAAAAABAAABAAAAAAAAAAAAAgAAAAgAAA=</HashCode>
       <FileName>IManagement.cs</FileName>

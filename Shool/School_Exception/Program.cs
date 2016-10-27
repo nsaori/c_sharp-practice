@@ -1,6 +1,4 @@
-﻿//예위처리할 떈 각각할 것
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,41 +16,40 @@ namespace School
             {
                 m.Add(new Student("홍길동", 20, 201601));
             }
-            catch (InvailedAgeException e)
+            catch (InvaildAgeException e)
             {
-                Console.WriteLine("나이예외"+ e.Message);
+                Console.WriteLine("나이예외: "+e.Message);
             }
-            catch (DuplicationException e)
+            catch (DuplicatedException e)
             {
-                Console.WriteLine("중복예외" + e.Message);
+                Console.WriteLine("중복예외: " + e.Message);
             }
             
             try
             {
                 m.Add(new Teacher("일강사", 30, "C#"));
             }
-            catch (InvailedAgeException e)
+            catch (InvaildAgeException e)
             {
-                Console.WriteLine("나이예외" + e.Message);
+                Console.WriteLine("나이예외: " + e.Message);
             }
-            catch (DuplicationException e)
+            catch (DuplicatedException e)
             {
-                Console.WriteLine("중복예외" + e.Message);
+                Console.WriteLine("중복예외: " + e.Message);
             }
 
             try
             {
                 m.Add(new Employee("일직원", 25, 'A'));
             }
-            catch (InvailedAgeException e)
+            catch (InvaildAgeException e)
             {
-                Console.WriteLine("나이예외" + e.Message);
+                Console.WriteLine("나이예외: " + e.Message);
             }
-            catch (DuplicationException e)
+            catch (DuplicatedException e)
             {
-                Console.WriteLine("중복예외" + e.Message);
+                Console.WriteLine("중복예외: " + e.Message);
             }
-
 
             m.PrintAll();
             Console.WriteLine();
@@ -60,27 +57,27 @@ namespace School
             try
             {
                 Person p = m.Search("일강사");
-                /* if(p!=null)*/ p.PrintAll();  //이제 정상 값 / notfoundException가 넘어온다
+                /*if(p!=null)*/ p.PrintAll();
             }
-            catch (NotFindException e)
+            catch (NotFoundException e)
             {
-                Console.WriteLine("이름예외" + e.Message);
+                Console.WriteLine("이름예외: " + e.Message);
             }
             Console.WriteLine();
 
             try
             {
-                Person s = new Student("일강사", 20, 201401);
+                Person s = new Student("일강사", 22, 201401);
                 m.Update(s);
                 m.PrintAll();
             }
-            catch (InvailedAgeException e)
+            catch (InvaildAgeException e)
             {
-                Console.WriteLine("나이예외" + e.Message);
+                Console.WriteLine("나이예외: " + e.Message);
             }
-            catch (NotFindException e)
+            catch (NotFoundException e)
             {
-                Console.WriteLine("수정예외" + e.Message);
+                Console.WriteLine("수정예외: " + e.Message);
             }
             Console.WriteLine();
 
@@ -89,9 +86,9 @@ namespace School
                 m.Remove("일강사");
                 m.PrintAll();
             }
-            catch (NotFindException e)
+            catch (NotFoundException e)
             {
-                Console.WriteLine("삭제예외" + e.Message);
+                Console.WriteLine("삭제예외: " + e.Message);
             }
             Console.WriteLine();
 

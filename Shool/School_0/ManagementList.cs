@@ -1,4 +1,5 @@
-﻿using System;
+﻿//interface 상속받은 것
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,16 +22,7 @@ namespace School
 
         public void Add(Person p)
         {
-            try
-            {
-                Search(p.Name);
-                throw new DuplicateWaitObjectException("중복등록: "+p.Name);
-            }
-            catch (NotFindException e)
-            {
-                list.Add(p);
-            }
-            
+            list.Add(p);
         }
         public Person Search(string name)
         {
@@ -38,29 +30,27 @@ namespace School
             {
                 if(name.Equals(item.Name)) return item;
             }
-            //return null;
-            throw new NotFindException("해당하는 정보 없습니다." + name);
+            return null;
         }
         public void PrintAll()
         {
             foreach (var item in list) Console.WriteLine(item);
         }
-        //-----------------------------------//
+        //-----------------------------------//CRUD -Creat,replace,updata,delete
         public void Remove(string name)
         {
-           
-                Person p = Search(name);
-                /*if(p!=null)*/list.Remove(p);
+            Person p = Search(name);
+            if (p != null) list.Remove(p);
+            //throw new NotImplementedException();
         }
-        public void Update(Person p)
+        public void Update(Person p)  //주소갑을 가라끼운다.
         {
             Person old = Search(p.Name);
-            //if (old != null)
-            //{
-                int index = list.IndexOf(old);
+            if (old != null) {
+                int index = list.IndexOf(old);      //replace,updata는 이렇게 한다---
                 list.RemoveAt(index);
                 list.Insert(index, p);
-            //}
+            }
         }
         public List<Person> ToList()
         {

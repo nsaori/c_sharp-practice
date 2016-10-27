@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace School
 {
-    abstract class Person
+    abstract class Person  //incapshlation적용해서~!
     {
-        public string Name { get; set; }
+        public string Name { get; set; } //propaty
 
         private int age;
-        public int Age
+        public int Age //propafully
         {
             get { return age; }
             set { CheckAge(value); }
@@ -29,7 +29,7 @@ namespace School
             }
         }
 
-        public Person(string name, int age)
+        public Person(string name, int age) //생성자 overloading
         {
             Name = name;
             Age = age;

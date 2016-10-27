@@ -24,13 +24,12 @@ namespace School
             try
             {
                 Search(p.Name);
-                throw new DuplicateWaitObjectException("중복등록: "+p.Name);
+                throw new DuplicatedException("중복 등록입니다. "+p.Name);
             }
-            catch (NotFindException e)
+            catch(NotFoundException e)
             {
                 list.Add(p);
             }
-            
         }
         public Person Search(string name)
         {
@@ -39,7 +38,7 @@ namespace School
                 if(name.Equals(item.Name)) return item;
             }
             //return null;
-            throw new NotFindException("해당하는 정보 없습니다." + name);
+            throw new NotFoundException("해당하는 정보 없습니다. " + name);
         }
         public void PrintAll()
         {
@@ -48,9 +47,8 @@ namespace School
         //-----------------------------------//
         public void Remove(string name)
         {
-           
-                Person p = Search(name);
-                /*if(p!=null)*/list.Remove(p);
+            Person p = Search(name);
+            /*if(p!=null)*/ list.Remove(p);
         }
         public void Update(Person p)
         {

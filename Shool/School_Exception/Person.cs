@@ -24,8 +24,9 @@ namespace School
             }
             else
             {
-                Console.WriteLine("정확한 나이(1~99)를 입력하세요.");
-                Environment.Exit(0);
+                //Console.WriteLine("정확한 나이(1~99)를 입력하세요.");
+                //Environment.Exit(0);
+                throw new InvaildAgeException("정확한 나이(1~99)를 입력하세요. " + age);
             }
         }
 

@@ -44,9 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IManagement.cs" />
-    <Compile Include="DuplicationException.cs" />
+    <Compile Include="DuplicatedException.cs" />
     <Compile Include="NotFoundException.cs" />
-    <Compile Include="InvailedAgeException.cs" />
+    <Compile Include="InvaildAgeException.cs" />
     <Compile Include="ManagementList.cs" />
     <Compile Include="Management.cs" />
     <Compile Include="Program.cs" />
