@@ -36,7 +36,7 @@ namespace School
         {
             foreach (var item in list) Console.WriteLine(item);
         }
-        //-----------------------------------//CRUP -Creat,remove,updata,print
+        //-----------------------------------//CRUD -Creat,replace,updata,delete
         public void Remove(string name)
         {
             Person p = Search(name);

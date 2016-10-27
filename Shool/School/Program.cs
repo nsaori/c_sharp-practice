@@ -1,5 +1,5 @@
 ﻿
-//management = CRUP(creat, remove,updata,print)
+//management = CRUD(creat, replace,updata,delete)
 //c- >빨리하는것
 //객체지향 -> 유지보수성(변경할떈 최소항만,딱 하나만!)
 //Gi로 할 떈 버턴으로 만들면 된다.

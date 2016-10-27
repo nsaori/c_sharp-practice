@@ -1,0 +1,6 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\ExceptionBasic\bin\Debug\ExceptionBasic.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\ExceptionBasic\bin\Debug\ExceptionBasic.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\ExceptionBasic\bin\Debug\ExceptionBasic.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\ExceptionBasic\obj\Debug\ExceptionBasic.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\ExceptionBasic\obj\Debug\ExceptionBasic.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch10\ExceptionBasic\obj\Debug\ExceptionBasic.pdb

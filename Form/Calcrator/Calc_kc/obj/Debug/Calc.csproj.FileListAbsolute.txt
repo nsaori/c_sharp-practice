@@ -1,0 +1,10 @@
+\\517-40-pc\10기 공유폴더\C#share\wk\20161025\김철홍\Calc\bin\Debug\Calc.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Form\Calcrator\Calc_kc\bin\Debug\Calc.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Form\Calcrator\Calc_kc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Form\Calcrator\Calc_kc\obj\Debug\Calc.FormCalc.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Form\Calcrator\Calc_kc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Form\Calcrator\Calc_kc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Form\Calcrator\Calc_kc\bin\Debug\Calc.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Form\Calcrator\Calc_kc\bin\Debug\Calc.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Form\Calcrator\Calc_kc\obj\Debug\Calc.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\Form\Calcrator\Calc_kc\obj\Debug\Calc.pdb

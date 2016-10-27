@@ -42,6 +42,7 @@
             this.radioButton4 = new System.Windows.Forms.RadioButton();
             this.radioButton5 = new System.Windows.Forms.RadioButton();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.directorySearcher1 = new System.DirectoryServices.DirectorySearcher();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -193,6 +194,12 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "물고기";
             // 
+            // directorySearcher1
+            // 
+            this.directorySearcher1.ClientTimeout = System.TimeSpan.Parse("-00:00:01");
+            this.directorySearcher1.ServerPageTimeLimit = System.TimeSpan.Parse("-00:00:01");
+            this.directorySearcher1.ServerTimeLimit = System.TimeSpan.Parse("-00:00:01");
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
@@ -210,7 +217,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.linkLabel1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "           ";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
@@ -236,6 +243,7 @@
         private System.Windows.Forms.RadioButton radioButton4;
         private System.Windows.Forms.RadioButton radioButton5;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.DirectoryServices.DirectorySearcher directorySearcher1;
     }
 }
 
