@@ -46,4 +46,11 @@ namespace LinqBasic
         }
     }
  }
-
+/*
+<?xml version = "1.0" ?>
+<card seq="123">
+    <to>박상진</to>
+    <from>김태희</from>
+    <msg>언제만날까요?</msg>
+</card>
+*/
