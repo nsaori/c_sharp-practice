@@ -1,1 +1,6 @@
 C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DElegateRand\bin\Debug\DElegateRand.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DElegateRand\bin\Debug\DElegateRand.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DElegateRand\bin\Debug\DElegateRand.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DElegateRand\obj\Debug\DElegateRand.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DElegateRand\obj\Debug\DElegateRand.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DElegateRand\obj\Debug\DElegateRand.pdb
