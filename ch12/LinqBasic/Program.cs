@@ -23,15 +23,20 @@ namespace LinqBasic
             }*/
             //sql랑 분법이 똑같대
             var output = from item in input
-                        //where item % 2 == 0
-                         where item>5 && item % 2 == 0
+                         //where item % 2 == 0
+                         where item > 5 && item % 2 == 0
                          orderby item descending    //오른자순일 경우 생략 descending;역순
-                         select item;
+                         //select item;
                          //select item*item;
+                         select new { A = item*2, B = item*item, C = 100 };
 
-            foreach (int item in output)
+            foreach (var item in output)
             {
                 Console.WriteLine(item);
+                Console.WriteLine("item.A: "+item.A);
+                Console.WriteLine("item.B: " + item.B);
+                Console.WriteLine("item.C: " + item.C);
+                Console.WriteLine();
             }
         }
     }
