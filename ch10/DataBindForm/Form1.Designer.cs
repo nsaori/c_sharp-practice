@@ -1,4 +1,6 @@
-﻿namespace DataBindForm
+﻿using System.Windows.Forms;
+
+namespace DataBindForm
 {
     partial class Form1
     {
@@ -61,7 +63,21 @@
             this.listBox1.Size = new System.Drawing.Size(120, 88);
             this.listBox1.TabIndex = 1;
             this.listBox1.ValueMember = "Price";
-            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
+            // this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
+            /*
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(delegate(object sender, EventArgs e)
+            {
+                ListBox lb = (ListBox)sender;
+                Product p = (Product)lb.SelectedItem;
+                MessageBox.Show("" + p.Price, p.Name);
+            });
+            */
+            this.listBox1.SelectedIndexChanged += new System.EventHandler((sender, e) =>
+            {
+                ListBox lb = (ListBox)sender;
+                Product p = (Product)lb.SelectedItem;
+                MessageBox.Show("" + p.Price, p.Name);
+            });
             // 
             // Form1
             // 
