@@ -48,6 +48,7 @@ namespace DElegateRand
             students.Add(new Student("연하진", 4.4));
 
             students.Print();
+
             //1.mrthod
             students.Print(NameScore);
             
