@@ -1,10 +1,16 @@
-﻿//p.482 delegate; 변수처럼 사용하는 method다.
-/*sort--
- * products.Sort(SortWithPrice);
- private static int SortWithPrice(Product x, Product y){return x.Price.CompareTo(y.Price);}
-        */
-// ->하나로 '무명 delegate; p.486
-//   products.Sort((x, y) => x.Price.CompareTo(y.Price));  
+﻿//p.482 delegate/Landa; 변수처럼 사용하는 method다.
+/*
+1.
+     products.Sort(SortWithPrice);
+     private static int SortWithPrice(Product x, Product y){ return x.Price.CompareTo(y.Price); }
+
+2.delegate p.484
+     products.Sort(delegate(Product x, Product y){
+        return x.Price.CompareTo(y.Price);
+     }
+3.Landa- p.486
+    products.Sort((x, y) => x.Price.CompareTo(y.Price));  
+ */
 
 using System;
 using System.Collections.Generic;
@@ -23,7 +29,8 @@ namespace DElegateRand
             Name = name;
             Price = price;
         }
-        public override string ToString() {
+        public override string ToString()      //자동 ToString 호출 되도록
+        { 
             return Name + " : " + Price;
         }
     }
