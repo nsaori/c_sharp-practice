@@ -1,0 +1,9 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DelegateForm\bin\Debug\DelegateForm.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DelegateForm\bin\Debug\DelegateForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DelegateForm\bin\Debug\DelegateForm.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DelegateForm\obj\Debug\DelegateForm.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DelegateForm\obj\Debug\DelegateForm.Form1.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DelegateForm\obj\Debug\DelegateForm.Properties.Resources.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DelegateForm\obj\Debug\DelegateForm.csproj.GenerateResource.Cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DelegateForm\obj\Debug\DelegateForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch11\DelegateForm\obj\Debug\DelegateForm.pdb
