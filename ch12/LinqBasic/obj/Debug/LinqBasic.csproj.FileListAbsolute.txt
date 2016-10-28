@@ -1,1 +1,6 @@
 C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch12\LinqBasic\bin\Debug\LinqBasic.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch12\LinqBasic\bin\Debug\LinqBasic.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch12\LinqBasic\bin\Debug\LinqBasic.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch12\LinqBasic\obj\Debug\LinqBasic.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch12\LinqBasic\obj\Debug\LinqBasic.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\ch12\LinqBasic\obj\Debug\LinqBasic.pdb
