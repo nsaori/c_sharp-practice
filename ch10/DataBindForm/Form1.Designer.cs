@@ -64,14 +64,14 @@ namespace DataBindForm
             this.listBox1.TabIndex = 1;
             this.listBox1.ValueMember = "Price";
             // this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
-            /*
+            /*//delegate
             this.listBox1.SelectedIndexChanged += new System.EventHandler(delegate(object sender, EventArgs e)
             {
                 ListBox lb = (ListBox)sender;
                 Product p = (Product)lb.SelectedItem;
                 MessageBox.Show("" + p.Price, p.Name);
             });
-            */
+            *///landa
             this.listBox1.SelectedIndexChanged += new System.EventHandler((sender, e) =>
             {
                 ListBox lb = (ListBox)sender;
