@@ -50,7 +50,7 @@ namespace School
         {
            
                 Person p = Search(name);
-                /*if(p!=null)*/list.Remove(p);
+                /*if(p!=null)*/list.Remove(p);  //main에서 try catch해주면 됨->그대로 전달하면 된다.
         }
         public void Update(Person p)
         {

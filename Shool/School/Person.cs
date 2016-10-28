@@ -18,7 +18,7 @@ namespace School
         } 
         private void CheckAge(int age)
         {
-            if (age > 0)
+            if (age > 0 && age < 120)
             {
                 this.age = age;
             }

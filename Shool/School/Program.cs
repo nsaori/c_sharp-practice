@@ -1,4 +1,6 @@
 ﻿//예위처리할 떈 각각할 것
+//객체를 만들 떄마다 예위처리해준다
+//실체 코드는 50-60%가 예외처리래--
 
 using System;
 using System.Collections.Generic;
@@ -13,7 +15,7 @@ namespace School
         static void Main(string[] args)
         {
             IManagement m = new ManagementList();
-
+            //add    
             try
             {
                 m.Add(new Student("홍길동", 20, 201601));
@@ -53,10 +55,10 @@ namespace School
                 Console.WriteLine("중복예외" + e.Message);
             }
 
-
             m.PrintAll();
             Console.WriteLine();
 
+            //serch print
             try
             {
                 Person p = m.Search("일강사");
@@ -68,6 +70,7 @@ namespace School
             }
             Console.WriteLine();
 
+            //updata
             try
             {
                 Person s = new Student("일강사", 20, 201401);
@@ -84,6 +87,7 @@ namespace School
             }
             Console.WriteLine();
 
+            //remove
             try
             {
                 m.Remove("일강사");
