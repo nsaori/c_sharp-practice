@@ -76,5 +76,11 @@ namespace StudentForm
             Clear();
             ShowList();
         }
+
+        private void listBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            Person p = (Person)listBox.SelectedItem;
+            SetText(p);
+        }
     }
 }
