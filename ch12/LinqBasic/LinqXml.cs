@@ -1,4 +1,7 @@
 ﻿//p.520
+//http://www.kma.go.kr/index.jsp
+// -> RSS
+//http://www.kma.go.kr/weather/lifenindustry/sevice_rss.jsp?sido=4400000000&gugun=4420000000&dong=4420033000&x=33&y=6
 
 using System;
 using System.Collections.Generic;
