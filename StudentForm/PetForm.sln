@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentForm", "StudentForm.csproj", "{40EC2101-44D5-4A15-88FF-85D8DD48B688}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetForm", "..\PetForm\PetForm.csproj", "{774C5B7C-B59E-4C25-9C60-327280C9CB9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{40EC2101-44D5-4A15-88FF-85D8DD48B688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40EC2101-44D5-4A15-88FF-85D8DD48B688}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40EC2101-44D5-4A15-88FF-85D8DD48B688}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40EC2101-44D5-4A15-88FF-85D8DD48B688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774C5B7C-B59E-4C25-9C60-327280C9CB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774C5B7C-B59E-4C25-9C60-327280C9CB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774C5B7C-B59E-4C25-9C60-327280C9CB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774C5B7C-B59E-4C25-9C60-327280C9CB9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

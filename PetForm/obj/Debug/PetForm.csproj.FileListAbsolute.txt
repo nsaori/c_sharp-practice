@@ -1,0 +1,9 @@
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\PetForm\bin\Debug\PetForm.exe.config
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\PetForm\bin\Debug\PetForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\PetForm\bin\Debug\PetForm.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\PetForm\obj\Debug\PetForm.csprojResolveAssemblyReference.cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\PetForm\obj\Debug\PetForm.Properties.Resources.resources
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\PetForm\obj\Debug\PetForm.csproj.GenerateResource.Cache
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\PetForm\obj\Debug\PetForm.exe
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\PetForm\obj\Debug\PetForm.pdb
+C:\Users\517-11\Desktop\saori\c#\c_sharp-practice\PetForm\obj\Debug\PetForm.Form1.resources
